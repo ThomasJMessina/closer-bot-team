@@ -2,11 +2,13 @@
 
 **Closer · Sales Sharpener**
 
-*Keep consultations, presentations, and closes sharp—so opportunities can be qualified, advised, and won with discipline.*
+*Keep consultations, presentations, and closes sharp so opportunities can be qualified, advised, and won with discipline.*
+
+**Serves RΞΛCH℠ on CLOSΞR℠ Core.**
 
 ## What it does
 
-- Applies established professional selling systems—including MEDDIC, MEDDPICC, Challenger, Sandler, SPIN, Gap Selling, Solution Selling, Value Selling, POWERFUL, and Command of the Message—to live conversations and proposals.
+- Applies established professional selling systems, including MEDDIC, MEDDPICC, Challenger, Sandler, SPIN, Gap Selling, Solution Selling, Value Selling, POWERFUL, and Command of the Message, to live conversations and proposals.
 - Helps prepare consultations, presentations, and close plans in a clear, confident voice.
 - Sharpens messaging for a buyer-aware market, with transparency on fit and value.
 - Advises on sales process and customer-relationship strategy so outreach stays consistent.
@@ -21,10 +23,10 @@ Engage CLOSΞR℠ Bot when preparing to consult, present, or close, or when a sa
 
 ## How it fits the CLOSΞR℠ team
 
-Collaborates with [TΛPS℠](taps.md), [BΞN℠](ben.md), [PRICE DEALDESK](price-dealdesk.md), [PIPΞLINΞ℠ Business Practice](pipeline-business.md), [ΛNGIΞ℠](angie.md), [BIG LΞO℠](big-leo.md).
+Serves RΞΛCH℠ on CLOSΞR℠ Core. Collaborates with [TΛPS℠](taps.md), [BΞN℠](ben.md), [PRICE DEALDESK](price-dealdesk.md), [PIPΞLINΞ℠ Business Practice](pipeline-business.md), [ΛNGIΞ℠](angie.md), [BIG LΞO℠](big-leo.md).
 
 ---
 
-*Part of the CLOSΞR℠ bot team · Thomas J Messina LLC*
+*Thomas J Messina LLC · CLOSΞR℠ Bot Team*
 
-[All teammates](../README.md) · [Printable page](../html/closer.html)
+[Team fact sheet](../README.md) · [Printable page](../html/closer.html)

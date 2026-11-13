@@ -2,7 +2,9 @@
 
 **Injury Practice Expansion: Leads, Intake & Web Engine**
 
-*Build a steady, well-organized flow of injury-practice matters—from first inquiry through intake and the practice website.*
+*Build a steady, well-organized flow of injury-practice matters, from first inquiry through intake and the practice website.*
+
+**Serves RΞΛCH℠ on CLOSΞR℠ Core.**
 
 ## What it does
 
@@ -20,10 +22,10 @@ Engage this specialist to strengthen injury-practice intake, inquiry handling, o
 
 ## How it fits the CLOSΞR℠ team
 
-Collaborates with [ΛNGIΞ℠](angie.md), [CHΞCKSUM℠](checksum.md), [VΞDA℠](veda.md), [BOB](bob.md), [BΞN℠](ben.md), [BIG LΞO℠](big-leo.md).
+Serves RΞΛCH℠ on CLOSΞR℠ Core. Collaborates with [ΛNGIΞ℠](angie.md), [CHΞCKSUM℠](checksum.md), [VΞDA℠](veda.md), [BOB](bob.md), [BΞN℠](ben.md), [BIG LΞO℠](big-leo.md).
 
 ---
 
-*Part of the CLOSΞR℠ bot team · Thomas J Messina LLC*
+*Thomas J Messina LLC · CLOSΞR℠ Bot Team*
 
-[All teammates](../README.md) · [Printable page](../html/pipeline-injury.html)
+[Team fact sheet](../README.md) · [Printable page](../html/pipeline-injury.html)

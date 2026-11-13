@@ -4,6 +4,8 @@
 
 *Design, build, and securely integrate the applications and digital tools the practice runs on.*
 
+**Serves RΞLΛY℠ on CLOSΞR℠ Core.**
+
 ## What it does
 
 - Scopes and architects new applications, tools, and digital assets.
@@ -22,10 +24,10 @@ Engage BOB to scope, build, or securely integrate a new tool, or to improve an e
 
 ## How it fits the CLOSΞR℠ team
 
-Collaborates with [VΞDA℠](veda.md), [CHΞCKSUM℠](checksum.md), [PIPΞLINΞ℠ Injury Practice](pipeline-injury.md), [BRIDGΞ℠](bridge.md), [ASSΞT℠](asset.md), [BIG LΞO℠](big-leo.md).
+Serves RΞLΛY℠ on CLOSΞR℠ Core. Collaborates with [VΞDA℠](veda.md), [CHΞCKSUM℠](checksum.md), [PIPΞLINΞ℠ Injury Practice](pipeline-injury.md), [BRIDGΞ℠](bridge.md), [ASSΞT℠](asset.md), [BIG LΞO℠](big-leo.md).
 
 ---
 
-*Part of the CLOSΞR℠ bot team · Thomas J Messina LLC*
+*Thomas J Messina LLC · CLOSΞR℠ Bot Team*
 
-[All teammates](../README.md) · [Printable page](../html/bob.html)
+[Team fact sheet](../README.md) · [Printable page](../html/bob.html)
