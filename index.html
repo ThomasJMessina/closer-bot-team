@@ -237,8 +237,8 @@ body { padding: 24px; }
   justify-content: space-between;
   align-items: center;
   gap: 16px;
-  padding-top: 0.28in;
-  padding-bottom: 0.14in;
+  padding-top: 0.20in;
+  padding-bottom: 0.10in;
   border-bottom: 1px solid var(--rule);
 }
 
@@ -254,15 +254,15 @@ body { padding: 24px; }
   gap: 8px;
 }
 
-.sheet-body { flex: 1; padding-top: 0.22in; padding-bottom: 0.16in; display: flex; flex-direction: column; min-height: 0; }
+.sheet-body { flex: 1; padding-top: 0.12in; padding-bottom: 0.08in; display: flex; flex-direction: column; min-height: 0; }
 
 .sheet-foot {
   display: flex;
   justify-content: space-between;
   align-items: center;
   gap: 16px;
-  padding-top: 0.12in;
-  padding-bottom: 0.2in;
+  padding-top: 0.08in;
+  padding-bottom: 0.14in;
   border-top: 1px solid var(--rule);
   font-family: var(--font-mono);
   font-size: 7pt;
@@ -367,44 +367,44 @@ section p { margin: 0; font-size: 9.5pt; line-height: 1.4; }
 .display {
   font-family: var(--font-brand);
   font-weight: 600;
-  font-size: 36pt;
+  font-size: 26pt;
   letter-spacing: -0.045em;
   line-height: 0.9;
   margin: 0;
 }
 .definition {
-  margin: 8px 0 0;
-  font-size: 11pt;
-  line-height: 1.3;
+  margin: 4px 0 0;
+  font-size: 9.5pt;
+  line-height: 1.28;
   max-width: 6.8in;
 }
 .bottom-line {
-  margin: 10px 0 12px;
-  font-size: 10.5pt;
-  line-height: 1.35;
+  margin: 5px 0 7px;
+  font-size: 9pt;
+  line-height: 1.3;
   max-width: 6.9in;
 }
 .core-band {
   background: var(--ink);
   color: var(--paper);
-  padding: 12px 14px 13px;
-  margin: 0 0 12px;
+  padding: 7px 11px 8px;
+  margin: 0 0 7px;
   border-radius: var(--radius-sq);
 }
 .core-band .kicker-lead { color: var(--lead); }
 .core-band h2 {
   font-family: var(--font-brand);
   font-weight: 600;
-  font-size: 14pt;
+  font-size: 12.5pt;
   letter-spacing: -0.03em;
-  margin: 2px 0 6px;
+  margin: 1px 0 4px;
   color: var(--paper);
   border: 0;
   padding: 0;
   text-transform: none;
 }
-.core-band p { margin: 0; font-size: 9pt; line-height: 1.35; color: color-mix(in srgb, var(--paper) 82%, transparent); }
-.core-band .coords { margin-top: 8px; display: grid; grid-template-columns: 1fr 1fr; gap: 6px 16px; }
+.core-band p { margin: 0; font-size: 8.2pt; line-height: 1.28; color: color-mix(in srgb, var(--paper) 82%, transparent); }
+.core-band .coords { margin-top: 6px; display: grid; grid-template-columns: 1fr 1fr; gap: 4px 16px; }
 .core-band .coords p { color: var(--paper); }
 .core-band a { color: var(--paper); text-decoration: none; font-family: var(--font-brand); font-weight: 600; }
 
@@ -417,7 +417,7 @@ section p { margin: 0; font-size: 9.5pt; line-height: 1.4; }
   min-height: 0;
 }
 .stage {
-  padding: 10px 11px 8px;
+  padding: 6px 9px 4px;
   display: flex;
   flex-direction: column;
   min-width: 0;
@@ -435,9 +435,9 @@ section p { margin: 0; font-size: 9.5pt; line-height: 1.4; }
 .stage h2 {
   font-family: var(--font-brand);
   font-weight: 600;
-  font-size: 13.5pt;
+  font-size: 12.5pt;
   letter-spacing: -0.03em;
-  margin: 0 0 2px;
+  margin: 0 0 1px;
   border: 0;
   padding: 0;
   text-transform: none;
@@ -450,17 +450,40 @@ section p { margin: 0; font-size: 9.5pt; line-height: 1.4; }
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--close);
-  margin: 0 0 5px;
-  line-height: 1.3;
+  margin: 0 0 3px;
+  line-height: 1.25;
 }
 .stage .role-line {
-  font-size: 8pt;
-  line-height: 1.3;
+  font-size: 7pt;
+  line-height: 1.22;
   color: var(--muted);
-  margin: 0 0 8px;
+  margin: 0 0 4px;
 }
 .stage ul { list-style: none; padding: 0; margin: 0; }
-.stage li { margin: 0 0 7px; font-size: 8pt; line-height: 1.28; }
+.stage li { margin: 0 0 2.5px; font-size: 7.2pt; line-height: 1.18; }
+.stage li .exp {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 5.9pt;
+  font-weight: 400;
+  font-style: italic;
+  letter-spacing: 0.01em;
+  text-transform: none;
+  color: var(--muted);
+  line-height: 1.2;
+  margin-top: 1px;
+}
+.core-band .exp {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 6.4pt;
+  font-weight: 400;
+  font-style: italic;
+  letter-spacing: 0.01em;
+  color: color-mix(in srgb, var(--paper) 62%, transparent);
+  line-height: 1.2;
+  margin: 1px 0 2px;
+}
 .stage li a {
   font-family: var(--font-brand);
   font-weight: 600;
@@ -497,7 +520,7 @@ section p { margin: 0; font-size: 9.5pt; line-height: 1.4; }
         <h2>CLOSΞR<span class="sm">℠</span> Core</h2>
         <p>The protected foundational knowledge, governance, and instruction system. It is not a fourth execution engine. The three frameworks execute from it.</p>
         <div class="coords">
-          <p><a href="html/big-leo.html">BIG LΞO<span class="sm">℠</span></a> Chief of Staff. Keeps priorities, the calendar, follow-ups, and the bot team coordinated.</p>
+          <p><a href="html/big-leo.html">BIG LΞO<span class="sm">℠</span></a><span class="exp">Business Intelligence Guide for Leadership, Economics &amp; Operations</span> Chief of Staff. Keeps priorities, the calendar, follow-ups, and the bot team coordinated.</p>
           <p><a href="html/grok-bot.html">Grok Bot</a> Primary router. Takes any request and routes it to the specialist best suited to the work.</p>
         </div>
       </div>
@@ -506,10 +529,9 @@ section p { margin: 0; font-size: 9.5pt; line-height: 1.4; }
           <p class="num">01</p>
           <h2>RΛDΛR<span class="sm">℠</span></h2>
           <p class="stages-exp">Recognize · Analyze · Develop · Advocate · Respond</p>
-          <p class="role-line">The governed decision, underwriting, analysis, solution-development, recommendation, and response system. Use it when a signal, opportunity, obligation, risk, exception, or decision requires structured reasoning.</p>
+          <p class="role-line">The governed decision, underwriting, analysis, solution-development, recommendation, and response system.</p>
           <ul>
-            <li><a href="html/prism.html">PRISM</a>Keeps business-development files complete, protected, and organized so decisions rest on a clean record.</li><li><a href="html/price-dealdesk.html">PRICE DEALDESK</a>Reviews source documents and completes consistent pricing and proposals.</li><li><a href="html/checksum.html">CHΞCKSUM<span class="sm">℠</span></a>Stewards the data estate and the master registry of firms, individuals, and leads.</li><li><a href="html/veda.html">VΞDA<span class="sm">℠</span></a>Evaluates vulnerabilities and assures data protection under a written information security program.</li><li><a href="html/cash.html">CΛSH<span class="sm">℠</span></a>Directs cash, payment timing, and capital allocation across household and business streams.</li><li><a href="html/asset.html">ASSΞT<span class="sm">℠</span></a>Protects and optimizes the lifecycle value of real estate, vehicles, equipment, and technology.</li>
-          </ul>
+<li><a href="html/prism.html">PRISM</a>Keeps business-development files complete, protected, and organized so decisions rest on a clean record.</li><li><a href="html/price-dealdesk.html">PRICE DEALDESK</a>Reviews source documents and completes consistent pricing and proposals.</li><li><a href="html/checksum.html">CHΞCKSUM<span class="sm">℠</span></a>Stewards the data estate and the master registry of firms, individuals, and leads.</li><li><a href="html/veda.html">VΞDA<span class="sm">℠</span></a><span class="exp">Vulnerability Evaluation &amp; Data Assurance</span>Evaluates vulnerabilities and assures data protection under a written information security program.</li><li><a href="html/cash.html">CΛSH<span class="sm">℠</span></a><span class="exp">Capital Λllocation &amp; Smart Holding</span>Directs cash, payment timing, and capital allocation across household and business streams.</li><li><a href="html/asset.html">ASSΞT<span class="sm">℠</span></a>Protects and optimizes the lifecycle value of real estate, vehicles, equipment, and technology.</li><li><a href="html/pipeline-injury.html">PIPΞLINΞ<span class="sm">℠</span> Injury Practice</a><span class="exp">Injury Practice Expansion: Leads, Intake, &amp; New-web Engine</span>Builds a steady inquiry-to-intake path for the injury practice.</li><li><a href="html/pipeline-business.html">PIPΞLINΞ<span class="sm">℠</span> Business Practice</a>Keeps accounting and related engagements organized, named, and under quality control.</li><li><a href="html/pipeline-family.html">PIPΞLINΞ<span class="sm">℠</span> Family Practice</a>Keeps family-practice matters organized as they move from first contact toward resolution.</li></ul>
         </div>
         <div class="stage">
           <p class="num">02</p>
@@ -517,8 +539,7 @@ section p { margin: 0; font-size: 9.5pt; line-height: 1.4; }
           <p class="stages-exp">Report · Engage · Attend · Convert · Honor</p>
           <p class="role-line">The governed media, audience, identity, information-delivery, engagement, activation, conversion, fulfillment, and relationship system.</p>
           <ul>
-            <li><a href="html/ben.html">BΞN<span class="sm">℠</span></a>Produces clear brand stories in digital, print, and video that help the right clients find the firm.</li><li><a href="html/angie.html">ΛNGIΞ<span class="sm">℠</span></a>Turns the firm&#x27;s expertise into clear education and content across mediation, small-business, and injury matters.</li><li><a href="html/taps.html">TΛPS<span class="sm">℠</span></a>Organizes tax, accounting, and payroll sales, outreach, and follow-up.</li><li><a href="html/closer.html">CLOSΞR<span class="sm">℠</span> Bot</a>Sharpens consultations, presentations, and closes. A specialist on CLOSΞR℠ Core, not a substitute for it.</li><li><a href="html/pipeline-injury.html">PIPΞLINΞ<span class="sm">℠</span> Injury Practice</a>Builds a steady inquiry-to-intake path for the injury practice.</li>
-          </ul>
+<li><a href="html/ben.html">BΞN<span class="sm">℠</span></a><span class="exp">Brand Ξvangelist &amp; Newsmaker</span>Produces clear brand stories in digital, print, and video that help the right clients find the firm.</li><li><a href="html/angie.html">ΛNGIΞ<span class="sm">℠</span></a><span class="exp">Angela&#x27;s Neutral Guide for Information and Education</span>Turns the firm&#x27;s expertise into clear education and content across mediation, small-business, and injury matters.</li><li><a href="html/taps.html">TΛPS<span class="sm">℠</span></a><span class="exp">Tax, Accounting, &amp; Payroll Sales Assistant</span>Organizes tax, accounting, and payroll sales, outreach, and follow-up.</li><li><a href="html/closer.html">CLOSΞR<span class="sm">℠</span> Bot</a>Sharpens consultations, presentations, and closes. A specialist on CLOSΞR℠ Core, not a substitute for it.</li></ul>
         </div>
         <div class="stage">
           <p class="num">03</p>
@@ -526,8 +547,7 @@ section p { margin: 0; font-size: 9.5pt; line-height: 1.4; }
           <p class="stages-exp">Register · Evaluate · Link · Assign · Yield</p>
           <p class="role-line">The governed instance, role, authority, relationship, coordination, handoff, conflict-aware delivery, and verification system.</p>
           <ul>
-            <li><a href="html/bob.html">BOB</a>Designs, builds, and securely integrates the applications the practice runs on, then monitors them after release.</li><li><a href="html/bridge.html">BRIDGΞ<span class="sm">℠</span></a>Standardizes mediation intake and prepares a complete file for the human mediator.</li><li><a href="html/pipeline-business.html">PIPΞLINΞ<span class="sm">℠</span> Business Practice</a>Keeps accounting and related engagements organized, named, and under quality control.</li><li><a href="html/pipeline-family.html">PIPΞLINΞ<span class="sm">℠</span> Family Practice</a>Keeps family-practice matters organized as they move from first contact toward resolution.</li>
-          </ul>
+<li><a href="html/bob.html">BOB</a>Designs, builds, and securely integrates the applications the practice runs on, then monitors them after release.</li><li><a href="html/bridge.html">BRIDGΞ<span class="sm">℠</span></a><span class="exp">Bot for Resolution Intake, Documentation, &amp; Guidance Efficiency</span>Standardizes mediation intake and prepares a complete file for the human mediator.</li></ul>
         </div>
       </div>
     </div>

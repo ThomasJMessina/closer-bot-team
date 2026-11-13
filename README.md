@@ -33,6 +33,9 @@ The governed decision, underwriting, analysis, solution-development, recommendat
 | [VΞDA℠](bots/veda.md) | Evaluates vulnerabilities and assures data protection under a written information security program. | [Print](html/veda.html) |
 | [CΛSH℠](bots/cash.md) | Directs cash, payment timing, and capital allocation across household and business streams. | [Print](html/cash.html) |
 | [ASSΞT℠](bots/asset.md) | Protects and optimizes the lifecycle value of real estate, vehicles, equipment, and technology. | [Print](html/asset.html) |
+| [PIPΞLINΞ℠ Injury Practice](bots/pipeline-injury.md) | Builds a steady inquiry-to-intake path for the injury practice. | [Print](html/pipeline-injury.html) |
+| [PIPΞLINΞ℠ Business Practice](bots/pipeline-business.md) | Keeps accounting and related engagements organized, named, and under quality control. | [Print](html/pipeline-business.html) |
+| [PIPΞLINΞ℠ Family Practice](bots/pipeline-family.md) | Keeps family-practice matters organized as they move from first contact toward resolution. | [Print](html/pipeline-family.html) |
 
 ## 02 · RΞΛCH℠
 
@@ -46,7 +49,6 @@ The governed media, audience, identity, information-delivery, engagement, activa
 | [ΛNGIΞ℠](bots/angie.md) | Turns the firm's expertise into clear education and content across mediation, small-business, and injury matters. | [Print](html/angie.html) |
 | [TΛPS℠](bots/taps.md) | Organizes tax, accounting, and payroll sales, outreach, and follow-up. | [Print](html/taps.html) |
 | [CLOSΞR℠ Bot](bots/closer.md) | Sharpens consultations, presentations, and closes. A specialist on CLOSΞR℠ Core, not a substitute for it. | [Print](html/closer.html) |
-| [PIPΞLINΞ℠ Injury Practice](bots/pipeline-injury.md) | Builds a steady inquiry-to-intake path for the injury practice. | [Print](html/pipeline-injury.html) |
 
 ## 03 · RΞLΛY℠
 
@@ -58,9 +60,6 @@ The governed instance, role, authority, relationship, coordination, handoff, con
 | --- | --- | --- |
 | [BOB](bots/bob.md) | Designs, builds, and securely integrates the applications the practice runs on, then monitors them after release. | [Print](html/bob.html) |
 | [BRIDGΞ℠](bots/bridge.md) | Standardizes mediation intake and prepares a complete file for the human mediator. | [Print](html/bridge.html) |
-| [PIPΞLINΞ℠ Business Practice](bots/pipeline-business.md) | Keeps accounting and related engagements organized, named, and under quality control. | [Print](html/pipeline-business.html) |
-| [PIPΞLINΞ℠ Family Practice](bots/pipeline-family.md) | Keeps family-practice matters organized as they move from first contact toward resolution. | [Print](html/pipeline-family.html) |
-
 
 ## Printable pages
 
