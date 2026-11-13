@@ -61,6 +61,11 @@ The governed instance, role, authority, relationship, coordination, handoff, con
 | [PIPΞLINΞ℠ Business Practice](bots/pipeline-business.md) | Keeps accounting and related engagements organized, named, and under quality control. | [Print](html/pipeline-business.html) |
 | [PIPΞLINΞ℠ Family Practice](bots/pipeline-family.md) | Keeps family-practice matters organized as they move from first contact toward resolution. | [Print](html/pipeline-family.html) |
 
+
+## Printable pages
+
+Each HTML page is designed to print on a single letter-size sheet. Open the printable HTML and use Print to PDF. Brand typography is Poppins for display marks, IBM Plex Sans for editorial text, and IBM Plex Mono for system metadata.
+
 ## Brand notes
 
 - Names use the approved marks, including Greek characters and the service mark: CLOSΞR℠, RΛDΛR℠, RΞΛCH℠, and RΞLΛY℠.
