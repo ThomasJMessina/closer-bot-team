@@ -2,37 +2,71 @@
 
 **Thomas J Messina LLC**
 
-The CLOSΞR℠ bot team is a coordinated group of specialist assistants. Together they support leadership, business development, practice pipelines, intake, content, treasury, assets, data stewardship, and information security—so clients experience a clear, well-run path, and the practice stays organized behind the scenes.
+**Review. Build. Grow.**
 
-Each page in this repository is a one-page explainer: what the specialist does, how it works, when to engage it, and how it fits the team. Open the Markdown for a quick read on GitHub, or open the HTML and print to PDF for a branded one-pager.
+CLOSΞR℠ is the Closed-Loop Operating System & Engagement Resource, the governing proprietary operating architecture of Thomas J Messina LLC.
 
-## The team
+**Bottom line.** CLOSΞR℠ Core is the foundation. RΛDΛR℠ decides. RΞΛCH℠ engages and activates. RΞLΛY℠ coordinates and delivers. The bot team works inside that architecture.
+
+Open the [printable fact sheet](index.html) for a one-page view of the team. Each specialist also has a one-page brief in Markdown and a printable HTML page.
+
+## CLOSΞR℠ Core
+
+The protected foundational knowledge, governance, and instruction system. It is not a fourth execution engine. The three frameworks execute from it. BIG LΞO℠ and Grok Bot coordinate across all three.
 
 | Specialist | Role | Printable |
 | --- | --- | --- |
-| [BIG LΞO℠](bots/big-leo.md) | Business Intelligence Guide for Leadership, Economics & Operations · Chief of Staff | [Print](html/big-leo.html) |
-| [Grok Bot](bots/grok-bot.md) | Primary Router | [Print](html/grok-bot.html) |
-| [CLOSΞR℠ Bot](bots/closer.md) | Closer · Sales Sharpener | [Print](html/closer.html) |
-| [BΞN℠](bots/ben.md) | Brand Ξvangelist & Newsmaker · Promoter | [Print](html/ben.html) |
-| [ΛNGIΞ℠](bots/angie.md) | Angela's Neutral Guide for Information and Education · Director of Professional Development & Brand Content | [Print](html/angie.html) |
-| [TΛPS℠](bots/taps.md) | Tax, Accounting, & Payroll Sales Assistant | [Print](html/taps.html) |
-| [PRICE DEALDESK](bots/price-dealdesk.md) | Pricing and Proposal Coordinator | [Print](html/price-dealdesk.html) |
-| [PIPΞLINΞ℠ Business Practice](bots/pipeline-business.md) | Pipeline Support · Workflow & Quality Control | [Print](html/pipeline-business.html) |
-| [PIPΞLINΞ℠ Family Practice](bots/pipeline-family.md) | Family Practice Pipeline | [Print](html/pipeline-family.html) |
-| [PIPΞLINΞ℠ Injury Practice](bots/pipeline-injury.md) | Injury Practice Expansion: Leads, Intake & Web Engine | [Print](html/pipeline-injury.html) |
-| [BRIDGΞ℠](bots/bridge.md) | Bot for Resolution Intake, Documentation & Guidance Efficiency · Intake Strategy & Resolution Efficiency Director | [Print](html/bridge.html) |
-| [PRISM](bots/prism.md) | Business Development Operations Specialist · Lead Processor & Revenue Operations Architect | [Print](html/prism.html) |
-| [CΛSH℠](bots/cash.md) | Capital Λllocation & Smart Holding · Accounts Payable & Treasury Manager | [Print](html/cash.html) |
-| [ASSΞT℠](bots/asset.md) | Director of Capital Assets & Fleet Operations | [Print](html/asset.html) |
-| [CHΞCKSUM℠](bots/checksum.md) | Enterprise Data Steward | [Print](html/checksum.html) |
-| [VΞDA℠](bots/veda.md) | Vulnerability Evaluation & Data Assurance · Business Information Security Officer | [Print](html/veda.html) |
-| [BOB](bots/bob.md) | AI Software Engineer & DevSecOps Agent | [Print](html/bob.html) |
+| [BIG LΞO℠](bots/big-leo.md) | Chief of Staff. Keeps priorities, the calendar, follow-ups, and the bot team coordinated. | [Print](html/big-leo.html) |
+| [Grok Bot](bots/grok-bot.md) | Primary router. Takes any request and routes it to the specialist best suited to the work. | [Print](html/grok-bot.html) |
+
+## 01 · RΛDΛR℠
+
+Recognize · Analyze · Develop · Advocate · Respond.
+
+The governed decision, underwriting, analysis, solution-development, recommendation, and response system. Use it when a signal, opportunity, obligation, risk, exception, or decision requires structured reasoning.
+
+| Specialist | Role | Printable |
+| --- | --- | --- |
+| [PRISM](bots/prism.md) | Keeps business-development files complete, protected, and organized so decisions rest on a clean record. | [Print](html/prism.html) |
+| [PRICE DEALDESK](bots/price-dealdesk.md) | Reviews source documents and completes consistent pricing and proposals. | [Print](html/price-dealdesk.html) |
+| [CHΞCKSUM℠](bots/checksum.md) | Stewards the data estate and the master registry of firms, individuals, and leads. | [Print](html/checksum.html) |
+| [VΞDA℠](bots/veda.md) | Evaluates vulnerabilities and assures data protection under a written information security program. | [Print](html/veda.html) |
+| [CΛSH℠](bots/cash.md) | Directs cash, payment timing, and capital allocation across household and business streams. | [Print](html/cash.html) |
+| [ASSΞT℠](bots/asset.md) | Protects and optimizes the lifecycle value of real estate, vehicles, equipment, and technology. | [Print](html/asset.html) |
+
+## 02 · RΞΛCH℠
+
+Report · Engage · Attend · Convert · Honor.
+
+The governed media, audience, identity, information-delivery, engagement, activation, conversion, fulfillment, and relationship system.
+
+| Specialist | Role | Printable |
+| --- | --- | --- |
+| [BΞN℠](bots/ben.md) | Produces clear brand stories in digital, print, and video that help the right clients find the firm. | [Print](html/ben.html) |
+| [ΛNGIΞ℠](bots/angie.md) | Turns the firm's expertise into clear education and content across mediation, small-business, and injury matters. | [Print](html/angie.html) |
+| [TΛPS℠](bots/taps.md) | Organizes tax, accounting, and payroll sales, outreach, and follow-up. | [Print](html/taps.html) |
+| [CLOSΞR℠ Bot](bots/closer.md) | Sharpens consultations, presentations, and closes. A specialist on CLOSΞR℠ Core, not a substitute for it. | [Print](html/closer.html) |
+| [PIPΞLINΞ℠ Injury Practice](bots/pipeline-injury.md) | Builds a steady inquiry-to-intake path for the injury practice. | [Print](html/pipeline-injury.html) |
+
+## 03 · RΞLΛY℠
+
+Register · Evaluate · Link · Assign · Yield.
+
+The governed instance, role, authority, relationship, coordination, handoff, conflict-aware delivery, and verification system.
+
+| Specialist | Role | Printable |
+| --- | --- | --- |
+| [BOB](bots/bob.md) | Designs, builds, and securely integrates the applications the practice runs on, then monitors them after release. | [Print](html/bob.html) |
+| [BRIDGΞ℠](bots/bridge.md) | Standardizes mediation intake and prepares a complete file for the human mediator. | [Print](html/bridge.html) |
+| [PIPΞLINΞ℠ Business Practice](bots/pipeline-business.md) | Keeps accounting and related engagements organized, named, and under quality control. | [Print](html/pipeline-business.html) |
+| [PIPΞLINΞ℠ Family Practice](bots/pipeline-family.md) | Keeps family-practice matters organized as they move from first contact toward resolution. | [Print](html/pipeline-family.html) |
 
 ## Brand notes
 
-- Names use the CLOSΞR℠ stylized letters (Ξ, Λ) and the service mark exactly as shown.
-- These pages describe the team for clients and prospects. They are not operating manuals and do not list internal systems or private details.
+- Names use the approved marks, including Greek characters and the service mark: CLOSΞR℠, RΛDΛR℠, RΞΛCH℠, and RΞLΛY℠.
+- CLOSΞR℠ Bot is a sales specialist on CLOSΞR℠ Core. It is not a substitute for CLOSΞR℠ Core or for Thomas J. Messina as the public authority.
+- These pages are public-facing. They are not operating manuals and do not list internal systems or private details.
 
 ---
 
-*Part of the CLOSΞR℠ bot team · Thomas J Messina LLC*
+*Thomas J Messina LLC · CLOSΞR℠ Bot Team · 2026-11-13 · V1.0*
