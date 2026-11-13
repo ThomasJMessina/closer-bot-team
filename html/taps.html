@@ -5,22 +5,181 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>TΛPS℠ · CLOSΞR℠ Bot Team</title>
   <style>
-/* CLOSΞR℠ Bot Team — printable one-page explainer styles
-   Thomas J Messina LLC
-*/
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/fonts/Poppins-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/fonts/Poppins-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/fonts/Poppins-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/fonts/IBMPlexSans-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+0370-03FF;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/fonts/IBMPlexSans-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+0370-03FF;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/fonts/IBMPlexSans-SemiBold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+0370-03FF;
+}
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../assets/fonts/IBMPlexSans-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../assets/fonts/IBMPlexSans-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../assets/fonts/IBMPlexSans-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("../assets/fonts/IBMPlexMono-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("../assets/fonts/IBMPlexMono-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("../assets/fonts/IBMPlexSans-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+0370-03FF;
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("../assets/fonts/IBMPlexSans-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+0370-03FF;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/fonts/DejaVuSans-SM.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+2120;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/fonts/DejaVuSans-SM.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+2120;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/fonts/DejaVuSans-SM.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+2120;
+}
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../assets/fonts/DejaVuSans-SM.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+2120;
+}
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../assets/fonts/DejaVuSans-SM.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+2120;
+}
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../assets/fonts/DejaVuSans-SM.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+2120;
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("../assets/fonts/DejaVuSans-SM.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+2120;
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("../assets/fonts/DejaVuSans-SM.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+2120;
+}
 
 :root {
-  --ink: #122033;
-  --ink-soft: #3a4a5c;
-  --rule: #d5c4a1;
-  --gold: #9a7b3c;
-  --gold-deep: #7a5e28;
-  --paper: #fbf8f2;
-  --paper-edge: #f3eee4;
-  --accent-line: #1a2a3d;
-  --footer: #5c6b7a;
-  --sans: "Source Sans 3", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-  --serif: "Source Serif 4", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+  --ink: #0B0B0C;
+  --ink-soft: #1C1C1F;
+  --paper: #F3F0EA;
+  --paper-2: #E7E2D8;
+  --lead: #FF3131;
+  --close: #004AAD;
+  --rule: color-mix(in srgb, var(--ink) 16%, transparent);
+  --rule-on-ink: color-mix(in srgb, var(--paper) 18%, transparent);
+  --muted: color-mix(in srgb, var(--ink) 62%, var(--paper));
+  --radius-sq: 2px;
+  --font-brand: "Poppins", "IBM Plex Sans", ui-sans-serif, sans-serif;
+  --font-sans: "IBM Plex Sans", ui-sans-serif, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
 }
 
 * { box-sizing: border-box; }
@@ -28,273 +187,341 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #e8e2d6;
+  background: #d9d4cb;
   color: var(--ink);
-  font-family: var(--sans);
-  font-size: 10.5pt;
-  line-height: 1.45;
+  font-family: var(--font-sans);
+  font-weight: 400;
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-body {
-  padding: 24px;
-}
+body { padding: 24px; }
 
 .page {
   width: 8.5in;
-  min-height: 11in;
-  max-height: 11in;
+  height: 11in;
   margin: 0 auto;
   background: var(--paper);
-  padding: 0.55in 0.65in 0.5in;
-  display: flex;
-  flex-direction: column;
-  box-shadow: 0 8px 28px rgba(18, 32, 51, 0.12);
+  color: var(--ink);
   position: relative;
   overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  box-shadow: none;
 }
 
-.page::before {
-  content: "";
-  position: absolute;
-  top: 0; left: 0; right: 0;
-  height: 7px;
-  background: var(--accent-line);
-}
+.lead-bar, .close-bar { height: 6px; width: 100%; flex: none; }
+.lead-bar { background: var(--lead); }
+.close-bar { background: var(--close); }
 
-header.masthead {
+.stepmark {
+  display: inline-flex;
+  width: 14px;
+  height: 12px;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-shrink: 0;
+}
+.stepmark i {
+  display: block;
+  height: 5px;
+  width: 100%;
+}
+.stepmark i.lead { background: var(--lead); }
+.stepmark i.close { background: var(--close); }
+
+.sheet-head, .sheet-foot, .sheet-body { padding-left: 0.55in; padding-right: 0.55in; }
+
+.sheet-head {
   display: flex;
   justify-content: space-between;
-  align-items: baseline;
-  border-bottom: 1.5px solid var(--gold);
-  padding-bottom: 8px;
-  margin-bottom: 18px;
+  align-items: center;
+  gap: 16px;
+  padding-top: 0.28in;
+  padding-bottom: 0.14in;
+  border-bottom: 1px solid var(--rule);
+}
+
+.meta {
+  font-family: var(--font-mono);
+  font-size: 7.5pt;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.sheet-body { flex: 1; padding-top: 0.22in; padding-bottom: 0.16in; display: flex; flex-direction: column; min-height: 0; }
+
+.sheet-foot {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  padding-top: 0.12in;
+  padding-bottom: 0.2in;
+  border-top: 1px solid var(--rule);
+  font-family: var(--font-mono);
+  font-size: 7pt;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
 }
 
 .wordmark {
-  font-family: var(--serif);
-  font-weight: 700;
-  font-size: 15pt;
-  letter-spacing: 0.18em;
-  color: var(--ink);
-  text-transform: none;
-}
-
-.wordmark span.sm {
-  font-size: 7.5pt;
-  letter-spacing: 0;
-  vertical-align: super;
-  margin-left: 1px;
-}
-
-.masthead-meta {
-  font-size: 8pt;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--gold-deep);
+  font-family: var(--font-brand);
   font-weight: 600;
+  letter-spacing: -0.03em;
+  line-height: 0.92;
+}
+.sm {
+  font-family: var(--font-mono);
+  font-weight: 500;
+  font-size: 0.42em;
+  letter-spacing: 0.08em;
+  vertical-align: super;
 }
 
 h1.name {
-  font-family: var(--serif);
-  font-weight: 700;
-  font-size: 26pt;
-  line-height: 1.1;
-  margin: 0 0 4px;
-  color: var(--ink);
-  letter-spacing: 0.02em;
-}
-
-p.role {
-  margin: 0 0 16px;
-  font-size: 10pt;
-  color: var(--gold-deep);
-  letter-spacing: 0.04em;
+  font-family: var(--font-brand);
   font-weight: 600;
+  font-size: 28pt;
+  line-height: 0.95;
+  letter-spacing: -0.035em;
+  margin: 0;
 }
 
-p.mission {
-  margin: 0 0 20px;
-  font-family: var(--serif);
-  font-size: 12.5pt;
-  line-height: 1.4;
+.role {
+  margin: 6px 0 0;
+  font-family: var(--font-sans);
+  font-size: 10pt;
+  font-weight: 500;
   color: var(--ink);
-  border-left: 3px solid var(--gold);
-  padding-left: 14px;
 }
 
-section {
+.status-row {
+  font-family: var(--font-mono);
+  font-size: 7.5pt;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  margin: 0 0 10px;
+}
+.status-row .lead { color: var(--lead); }
+.status-row .close { color: var(--close); }
+.status-row .sep { color: var(--rule); margin: 0 0.55em; }
+
+.mission {
   margin: 0 0 14px;
+  font-size: 11.5pt;
+  line-height: 1.35;
+  max-width: 6.9in;
 }
+.mission strong { font-weight: 600; }
 
+section { margin: 0 0 11px; }
 section h2 {
-  margin: 0 0 6px;
-  font-size: 8.5pt;
+  margin: 0 0 5px;
+  font-family: var(--font-mono);
+  font-size: 7.5pt;
+  font-weight: 500;
   letter-spacing: 0.16em;
   text-transform: uppercase;
-  color: var(--gold-deep);
-  font-weight: 700;
+  color: var(--lead);
   border-bottom: 1px solid var(--rule);
   padding-bottom: 3px;
 }
+section ul { margin: 0; padding: 0 0 0 1.1em; }
+section li { margin: 0 0 3px; font-size: 9.5pt; line-height: 1.35; }
+section p { margin: 0; font-size: 9.5pt; line-height: 1.4; }
 
-section ul {
-  margin: 0;
-  padding: 0 0 0 1.1em;
-}
-
-section li {
-  margin: 0 0 4px;
-  color: var(--ink);
-}
-
-section p {
-  margin: 0;
-  color: var(--ink);
-}
-
-.collaborates {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px 8px;
-  margin-top: 2px;
-}
-
+.chips { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 4px; }
 .chip {
   display: inline-block;
   border: 1px solid var(--rule);
-  background: var(--paper-edge);
+  background: var(--paper-2);
   color: var(--ink);
-  font-size: 8.5pt;
-  padding: 2px 9px 3px;
-  border-radius: 2px;
-  letter-spacing: 0.02em;
-  text-decoration: none;
-}
-
-.chip:hover { border-color: var(--gold); }
-
-footer.colophon {
-  margin-top: auto;
-  padding-top: 10px;
-  border-top: 1.5px solid var(--gold);
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
+  font-family: var(--font-brand);
+  font-weight: 600;
   font-size: 8pt;
-  letter-spacing: 0.06em;
-  color: var(--footer);
+  letter-spacing: -0.02em;
+  padding: 2px 8px 3px;
+  border-radius: var(--radius-sq);
+  text-decoration: none;
+}
+
+/* Fact sheet */
+.kicker-lead {
+  font-family: var(--font-mono);
+  font-size: 7.5pt;
+  font-weight: 500;
+  letter-spacing: 0.2em;
   text-transform: uppercase;
+  color: var(--lead);
+  margin: 0 0 4px;
 }
-
-/* Index page may exceed one sheet */
-.page.index-page {
-  max-height: none;
-  min-height: 11in;
-}
-
-.intro {
-  font-family: var(--serif);
-  font-size: 12pt;
-  line-height: 1.45;
-  margin: 0 0 18px;
-}
-
-.team-list {
-  list-style: none;
-  padding: 0;
+.display {
+  font-family: var(--font-brand);
+  font-weight: 600;
+  font-size: 36pt;
+  letter-spacing: -0.045em;
+  line-height: 0.9;
   margin: 0;
 }
-
-.team-list li {
-  display: grid;
-  grid-template-columns: 2.1in 1fr;
-  gap: 10px;
-  padding: 7px 0;
-  border-bottom: 1px solid var(--rule);
-  page-break-inside: avoid;
+.definition {
+  margin: 8px 0 0;
+  font-size: 11pt;
+  line-height: 1.3;
+  max-width: 6.8in;
 }
+.bottom-line {
+  margin: 10px 0 12px;
+  font-size: 10.5pt;
+  line-height: 1.35;
+  max-width: 6.9in;
+}
+.core-band {
+  background: var(--ink);
+  color: var(--paper);
+  padding: 12px 14px 13px;
+  margin: 0 0 12px;
+  border-radius: var(--radius-sq);
+}
+.core-band .kicker-lead { color: var(--lead); }
+.core-band h2 {
+  font-family: var(--font-brand);
+  font-weight: 600;
+  font-size: 14pt;
+  letter-spacing: -0.03em;
+  margin: 2px 0 6px;
+  color: var(--paper);
+  border: 0;
+  padding: 0;
+  text-transform: none;
+}
+.core-band p { margin: 0; font-size: 9pt; line-height: 1.35; color: color-mix(in srgb, var(--paper) 82%, transparent); }
+.core-band .coords { margin-top: 8px; display: grid; grid-template-columns: 1fr 1fr; gap: 6px 16px; }
+.core-band .coords p { color: var(--paper); }
+.core-band a { color: var(--paper); text-decoration: none; font-family: var(--font-brand); font-weight: 600; }
 
-.team-list a {
-  font-family: var(--serif);
-  font-weight: 700;
+.stages {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 0;
+  border: 1px solid var(--rule);
+  flex: 1;
+  min-height: 0;
+}
+.stage {
+  padding: 10px 11px 8px;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+.stage + .stage { border-left: 1px solid var(--rule); }
+.stage .num {
+  font-family: var(--font-mono);
+  font-size: 7pt;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--lead);
+  margin: 0 0 3px;
+}
+.stage h2 {
+  font-family: var(--font-brand);
+  font-weight: 600;
+  font-size: 13.5pt;
+  letter-spacing: -0.03em;
+  margin: 0 0 2px;
+  border: 0;
+  padding: 0;
+  text-transform: none;
+  color: var(--ink);
+}
+.stage .stages-exp {
+  font-family: var(--font-mono);
+  font-size: 6.4pt;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--close);
+  margin: 0 0 5px;
+  line-height: 1.3;
+}
+.stage .role-line {
+  font-size: 8pt;
+  line-height: 1.3;
+  color: var(--muted);
+  margin: 0 0 8px;
+}
+.stage ul { list-style: none; padding: 0; margin: 0; }
+.stage li { margin: 0 0 7px; font-size: 8pt; line-height: 1.28; }
+.stage li a {
+  font-family: var(--font-brand);
+  font-weight: 600;
   color: var(--ink);
   text-decoration: none;
-  font-size: 11.5pt;
-}
-
-.team-list a:hover { color: var(--gold-deep); }
-
-.team-list .blurb {
-  color: var(--ink-soft);
-  font-size: 9.5pt;
-  margin: 0;
+  display: block;
+  letter-spacing: -0.02em;
+  font-size: 8.5pt;
 }
 
 @media print {
-  html, body {
-    background: white;
-    padding: 0;
-  }
-  .page {
-    box-shadow: none;
-    margin: 0;
-    width: auto;
-    min-height: 0;
-    max-height: none;
-    padding: 0.45in 0.55in 0.4in;
-  }
-  .page::before { display: none; }
-  a { color: inherit; text-decoration: none; }
-  @page {
-    size: letter;
-    margin: 0.4in;
-  }
+  html, body { background: white; padding: 0; width: 8.5in; height: 11in; }
+  .page { box-shadow: none; margin: 0; }
+  a { color: inherit !important; text-decoration: none !important; }
+  @page { size: letter; margin: 0; }
 }
 
   </style>
 </head>
 <body>
   <article class="page">
-    <header class="masthead">
-      <div class="wordmark">CLOSΞR<span class="sm">℠</span></div>
-      <div class="masthead-meta">Bot Team · Thomas J Messina LLC</div>
-    </header>
-    <h1 class="name">TΛPS℠</h1>
-    <p class="role">Tax, Accounting, &amp; Payroll Sales Assistant</p>
-    <p class="mission">Drive tax, accounting, and payroll sales—keeping outreach organized, the pipeline clean, and follow-up on time.</p>
-    <section>
-      <h2>What it does</h2>
-      <ul>
+    <div class="lead-bar" aria-hidden="true"></div>
+    <div class="sheet-head">
+      <p class="meta"><span class="stepmark" title="Thomas J Messina LLC" aria-hidden="true"><i class="lead"></i><i class="close"></i></span> THOMAS J MESSINA LLC</p>
+      <p class="meta">CLOSΞR℠ BOT TEAM · SPECIALIST BRIEF · 2026-11-13 · V1.0</p>
+    </div>
+    <div class="sheet-body">
+      <p class="status-row"><span class="close">Class: Public</span><span class="sep">|</span><span>Serves RΞΛCH℠ on CLOSΞR℠ Core</span></p>
+      <h1 class="name">TΛPS<span class="sm">℠</span></h1>
+      <p class="role">Tax, Accounting, &amp; Payroll Sales Assistant</p>
+      <p class="mission"><strong>Bottom line.</strong> Drive tax, accounting, and payroll sales, keeping outreach organized, the pipeline clean, and follow-up on time.</p>
+      <section>
+        <h2>What it does</h2>
+        <ul>
           <li>Supports sales activity and day-to-day organization for professional-services business development.</li>
           <li>Tracks results and keeps follow-up with prospective clients timely and complete.</li>
           <li>Keeps the tax, accounting, and payroll pipeline clean and current.</li>
           <li>Connects sales activity across customer-relationship systems so nothing is entered twice or lost.</li>
-      </ul>
-    </section>
-    <section>
-      <h2>How it works</h2>
-      <p>Works with customer-relationship systems, sales reporting, and pipeline tracking.</p>
-    </section>
-    <section>
-      <h2>When to engage</h2>
-      <p>Engage TΛPS℠ to organize outreach, report on sales activity, or keep a professional-services pipeline moving.</p>
-    </section>
-    <section>
-      <h2>How it fits the CLOSΞR℠ team</h2>
-      <div class="collaborates">
-          <a class="chip" href="closer.html">CLOSΞR℠ Bot</a>
-          <a class="chip" href="price-dealdesk.html">PRICE DEALDESK</a>
-          <a class="chip" href="pipeline-business.html">PIPΞLINΞ℠ Business Practice</a>
-          <a class="chip" href="prism.html">PRISM</a>
-          <a class="chip" href="ben.html">BΞN℠</a>
-          <a class="chip" href="big-leo.html">BIG LΞO℠</a>
-      </div>
-    </section>
-    <footer class="colophon">
-      <span>Part of the CLOSΞR℠ bot team · Thomas J Messina LLC</span>
-      <span>One-page explainer</span>
-    </footer>
+        </ul>
+      </section>
+      <section>
+        <h2>How it works</h2>
+        <p>Works with customer-relationship systems, sales reporting, and pipeline tracking.</p>
+      </section>
+      <section>
+        <h2>When to engage</h2>
+        <p>Engage TΛPS℠ to organize outreach, report on sales activity, or keep a professional-services pipeline moving.</p>
+      </section>
+      <section>
+        <h2>How it fits the CLOSΞR℠ team</h2>
+        <p>Serves RΞΛCH℠ on CLOSΞR℠ Core. Collaborates with:</p>
+        <div class="chips">
+          <a class="chip" href="closer.html">CLOSΞR<span class="sm">℠</span> Bot</a> <a class="chip" href="price-dealdesk.html">PRICE DEALDESK</a> <a class="chip" href="pipeline-business.html">PIPΞLINΞ<span class="sm">℠</span> Business Practice</a> <a class="chip" href="prism.html">PRISM</a> <a class="chip" href="ben.html">BΞN<span class="sm">℠</span></a> <a class="chip" href="big-leo.html">BIG LΞO<span class="sm">℠</span></a>
+        </div>
+      </section>
+    </div>
+    <div class="sheet-foot">
+      <span><span class="stepmark" title="Thomas J Messina LLC" aria-hidden="true"><i class="lead"></i><i class="close"></i></span> Thomas J Messina LLC · CLOSΞR℠ Bot Team</span>
+      <span>p. 1 of 1</span>
+    </div>
+    <div class="close-bar" aria-hidden="true"></div>
   </article>
 </body>
 </html>
