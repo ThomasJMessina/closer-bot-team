@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TΛPS℠ · CLOSΞR℠ Bot Team</title>
+  <style>
+/* CLOSΞR℠ Bot Team — printable one-page explainer styles
+   Thomas J Messina LLC
+*/
+
+:root {
+  --ink: #122033;
+  --ink-soft: #3a4a5c;
+  --rule: #d5c4a1;
+  --gold: #9a7b3c;
+  --gold-deep: #7a5e28;
+  --paper: #fbf8f2;
+  --paper-edge: #f3eee4;
+  --accent-line: #1a2a3d;
+  --footer: #5c6b7a;
+  --sans: "Source Sans 3", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  --serif: "Source Serif 4", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #e8e2d6;
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 10.5pt;
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  padding: 24px;
+}
+
+.page {
+  width: 8.5in;
+  min-height: 11in;
+  max-height: 11in;
+  margin: 0 auto;
+  background: var(--paper);
+  padding: 0.55in 0.65in 0.5in;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 8px 28px rgba(18, 32, 51, 0.12);
+  position: relative;
+  overflow: hidden;
+}
+
+.page::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 7px;
+  background: var(--accent-line);
+}
+
+header.masthead {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  border-bottom: 1.5px solid var(--gold);
+  padding-bottom: 8px;
+  margin-bottom: 18px;
+}
+
+.wordmark {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 15pt;
+  letter-spacing: 0.18em;
+  color: var(--ink);
+  text-transform: none;
+}
+
+.wordmark span.sm {
+  font-size: 7.5pt;
+  letter-spacing: 0;
+  vertical-align: super;
+  margin-left: 1px;
+}
+
+.masthead-meta {
+  font-size: 8pt;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--gold-deep);
+  font-weight: 600;
+}
+
+h1.name {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 26pt;
+  line-height: 1.1;
+  margin: 0 0 4px;
+  color: var(--ink);
+  letter-spacing: 0.02em;
+}
+
+p.role {
+  margin: 0 0 16px;
+  font-size: 10pt;
+  color: var(--gold-deep);
+  letter-spacing: 0.04em;
+  font-weight: 600;
+}
+
+p.mission {
+  margin: 0 0 20px;
+  font-family: var(--serif);
+  font-size: 12.5pt;
+  line-height: 1.4;
+  color: var(--ink);
+  border-left: 3px solid var(--gold);
+  padding-left: 14px;
+}
+
+section {
+  margin: 0 0 14px;
+}
+
+section h2 {
+  margin: 0 0 6px;
+  font-size: 8.5pt;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--gold-deep);
+  font-weight: 700;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 3px;
+}
+
+section ul {
+  margin: 0;
+  padding: 0 0 0 1.1em;
+}
+
+section li {
+  margin: 0 0 4px;
+  color: var(--ink);
+}
+
+section p {
+  margin: 0;
+  color: var(--ink);
+}
+
+.collaborates {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 8px;
+  margin-top: 2px;
+}
+
+.chip {
+  display: inline-block;
+  border: 1px solid var(--rule);
+  background: var(--paper-edge);
+  color: var(--ink);
+  font-size: 8.5pt;
+  padding: 2px 9px 3px;
+  border-radius: 2px;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+}
+
+.chip:hover { border-color: var(--gold); }
+
+footer.colophon {
+  margin-top: auto;
+  padding-top: 10px;
+  border-top: 1.5px solid var(--gold);
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  font-size: 8pt;
+  letter-spacing: 0.06em;
+  color: var(--footer);
+  text-transform: uppercase;
+}
+
+/* Index page may exceed one sheet */
+.page.index-page {
+  max-height: none;
+  min-height: 11in;
+}
+
+.intro {
+  font-family: var(--serif);
+  font-size: 12pt;
+  line-height: 1.45;
+  margin: 0 0 18px;
+}
+
+.team-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.team-list li {
+  display: grid;
+  grid-template-columns: 2.1in 1fr;
+  gap: 10px;
+  padding: 7px 0;
+  border-bottom: 1px solid var(--rule);
+  page-break-inside: avoid;
+}
+
+.team-list a {
+  font-family: var(--serif);
+  font-weight: 700;
+  color: var(--ink);
+  text-decoration: none;
+  font-size: 11.5pt;
+}
+
+.team-list a:hover { color: var(--gold-deep); }
+
+.team-list .blurb {
+  color: var(--ink-soft);
+  font-size: 9.5pt;
+  margin: 0;
+}
+
+@media print {
+  html, body {
+    background: white;
+    padding: 0;
+  }
+  .page {
+    box-shadow: none;
+    margin: 0;
+    width: auto;
+    min-height: 0;
+    max-height: none;
+    padding: 0.45in 0.55in 0.4in;
+  }
+  .page::before { display: none; }
+  a { color: inherit; text-decoration: none; }
+  @page {
+    size: letter;
+    margin: 0.4in;
+  }
+}
+
+  </style>
+</head>
+<body>
+  <article class="page">
+    <header class="masthead">
+      <div class="wordmark">CLOSΞR<span class="sm">℠</span></div>
+      <div class="masthead-meta">Bot Team · Thomas J Messina LLC</div>
+    </header>
+    <h1 class="name">TΛPS℠</h1>
+    <p class="role">Tax, Accounting, &amp; Payroll Sales Assistant</p>
+    <p class="mission">Drive tax, accounting, and payroll sales—keeping outreach organized, the pipeline clean, and follow-up on time.</p>
+    <section>
+      <h2>What it does</h2>
+      <ul>
+          <li>Supports sales activity and day-to-day organization for professional-services business development.</li>
+          <li>Tracks results and keeps follow-up with prospective clients timely and complete.</li>
+          <li>Keeps the tax, accounting, and payroll pipeline clean and current.</li>
+          <li>Connects sales activity across customer-relationship systems so nothing is entered twice or lost.</li>
+      </ul>
+    </section>
+    <section>
+      <h2>How it works</h2>
+      <p>Works with customer-relationship systems, sales reporting, and pipeline tracking.</p>
+    </section>
+    <section>
+      <h2>When to engage</h2>
+      <p>Engage TΛPS℠ to organize outreach, report on sales activity, or keep a professional-services pipeline moving.</p>
+    </section>
+    <section>
+      <h2>How it fits the CLOSΞR℠ team</h2>
+      <div class="collaborates">
+          <a class="chip" href="closer.html">CLOSΞR℠ Bot</a>
+          <a class="chip" href="price-dealdesk.html">PRICE DEALDESK</a>
+          <a class="chip" href="pipeline-business.html">PIPΞLINΞ℠ Business Practice</a>
+          <a class="chip" href="prism.html">PRISM</a>
+          <a class="chip" href="ben.html">BΞN℠</a>
+          <a class="chip" href="big-leo.html">BIG LΞO℠</a>
+      </div>
+    </section>
+    <footer class="colophon">
+      <span>Part of the CLOSΞR℠ bot team · Thomas J Messina LLC</span>
+      <span>One-page explainer</span>
+    </footer>
+  </article>
+</body>
+</html>
