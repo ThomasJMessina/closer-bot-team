@@ -4,6 +4,8 @@
 
 *Review source documents and complete clear, consistent pricing and proposals for professional-services engagements.*
 
+**Serves RΛDΛR℠ on CLOSΞR℠ Core.**
+
 ## What it does
 
 - Analyzes supporting documents needed to price accounting and related services.
@@ -20,10 +22,10 @@ Engage PRICE DEALDESK when a prospect or engagement needs a careful, consistent 
 
 ## How it fits the CLOSΞR℠ team
 
-Collaborates with [PIPΞLINΞ℠ Business Practice](pipeline-business.md), [TΛPS℠](taps.md), [PRISM](prism.md), [CLOSΞR℠ Bot](closer.md), [BIG LΞO℠](big-leo.md).
+Serves RΛDΛR℠ on CLOSΞR℠ Core. Collaborates with [PIPΞLINΞ℠ Business Practice](pipeline-business.md), [TΛPS℠](taps.md), [PRISM](prism.md), [CLOSΞR℠ Bot](closer.md), [BIG LΞO℠](big-leo.md).
 
 ---
 
-*Part of the CLOSΞR℠ bot team · Thomas J Messina LLC*
+*Thomas J Messina LLC · CLOSΞR℠ Bot Team*
 
-[All teammates](../README.md) · [Printable page](../html/price-dealdesk.html)
+[Team fact sheet](../README.md) · [Printable page](../html/price-dealdesk.html)

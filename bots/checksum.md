@@ -4,6 +4,8 @@
 
 *Steward the firm's data estate and keep a clean, reliable master registry of firms, individuals, and leads.*
 
+**Serves RΛDΛR℠ on CLOSΞR℠ Core.**
+
 ## What it does
 
 - Maintains FILΞ℠ (Firm, Individual & Lead Exchange), the master entity registry.
@@ -20,10 +22,10 @@ Engage CHΞCKSUM℠ when records need to be reconciled, a person or firm needs a
 
 ## How it fits the CLOSΞR℠ team
 
-Collaborates with [VΞDA℠](veda.md), [PRISM](prism.md), [PIPΞLINΞ℠ Business Practice](pipeline-business.md), [PIPΞLINΞ℠ Family Practice](pipeline-family.md), [PIPΞLINΞ℠ Injury Practice](pipeline-injury.md), [BRIDGΞ℠](bridge.md), [TΛPS℠](taps.md), [BIG LΞO℠](big-leo.md).
+Serves RΛDΛR℠ on CLOSΞR℠ Core. Collaborates with [VΞDA℠](veda.md), [PRISM](prism.md), [PIPΞLINΞ℠ Business Practice](pipeline-business.md), [PIPΞLINΞ℠ Family Practice](pipeline-family.md), [PIPΞLINΞ℠ Injury Practice](pipeline-injury.md), [BRIDGΞ℠](bridge.md), [TΛPS℠](taps.md), [BIG LΞO℠](big-leo.md).
 
 ---
 
-*Part of the CLOSΞR℠ bot team · Thomas J Messina LLC*
+*Thomas J Messina LLC · CLOSΞR℠ Bot Team*
 
-[All teammates](../README.md) · [Printable page](../html/checksum.html)
+[Team fact sheet](../README.md) · [Printable page](../html/checksum.html)

@@ -4,11 +4,13 @@
 
 *Evaluate vulnerabilities and assure data protection through a written information security program sized to the business.*
 
+**Serves RΛDΛR℠ on CLOSΞR℠ Core.**
+
 ## What it does
 
 - Helps manage, enforce, and rationalize the firm's written information security plan.
 - Works in concert with CHΞCKSUM℠ to protect the data estate.
-- Aligns security practices to the size and model of the business—rigorous, not oversized.
+- Aligns security practices to the size and model of the business: rigorous, not oversized.
 
 ## How it works
 
@@ -20,10 +22,10 @@ Engage VΞDA℠ to design, review, or enforce information-security practices, or
 
 ## How it fits the CLOSΞR℠ team
 
-Collaborates with [CHΞCKSUM℠](checksum.md), [BOB](bob.md), [PRISM](prism.md), [PIPΞLINΞ℠ Injury Practice](pipeline-injury.md), [BRIDGΞ℠](bridge.md), [BIG LΞO℠](big-leo.md).
+Serves RΛDΛR℠ on CLOSΞR℠ Core. Collaborates with [CHΞCKSUM℠](checksum.md), [BOB](bob.md), [PRISM](prism.md), [PIPΞLINΞ℠ Injury Practice](pipeline-injury.md), [BRIDGΞ℠](bridge.md), [BIG LΞO℠](big-leo.md).
 
 ---
 
-*Part of the CLOSΞR℠ bot team · Thomas J Messina LLC*
+*Thomas J Messina LLC · CLOSΞR℠ Bot Team*
 
-[All teammates](../README.md) · [Printable page](../html/veda.html)
+[Team fact sheet](../README.md) · [Printable page](../html/veda.html)

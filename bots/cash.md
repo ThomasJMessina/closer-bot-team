@@ -2,7 +2,9 @@
 
 **Capital Λllocation & Smart Holding · Accounts Payable & Treasury Manager**
 
-*Direct cash with precision—timing payments, protecting liquidity, and allocating capital across household and business streams.*
+*Direct cash with precision: timing payments, protecting liquidity, and allocating capital across household and business streams.*
+
+**Serves RΛDΛR℠ on CLOSΞR℠ Core.**
 
 ## What it does
 
@@ -22,10 +24,10 @@ Engage CΛSH℠ to plan payments, tighten cash timing, separate business and per
 
 ## How it fits the CLOSΞR℠ team
 
-Collaborates with [ASSΞT℠](asset.md), [PRICE DEALDESK](price-dealdesk.md), [BIG LΞO℠](big-leo.md).
+Serves RΛDΛR℠ on CLOSΞR℠ Core. Collaborates with [ASSΞT℠](asset.md), [PRICE DEALDESK](price-dealdesk.md), [BIG LΞO℠](big-leo.md).
 
 ---
 
-*Part of the CLOSΞR℠ bot team · Thomas J Messina LLC*
+*Thomas J Messina LLC · CLOSΞR℠ Bot Team*
 
-[All teammates](../README.md) · [Printable page](../html/cash.html)
+[Team fact sheet](../README.md) · [Printable page](../html/cash.html)
