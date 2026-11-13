@@ -2,11 +2,13 @@
 
 **Family Practice Pipeline**
 
-*Support the family-practice pipeline—keeping matters organized as they move from first contact toward resolution.*
+*Support the family-practice pipeline, keeping matters organized as they move from first contact toward resolution.*
+
+**Serves RΞLΛY℠ on CLOSΞR℠ Core.**
 
 ## What it does
 
-- Supports workflow for the family-practice vertical of the CLOSΞR℠ team.
+- Supports workflow for the family-practice vertical of the CLOSΞR℠ bot team.
 - Helps keep family-practice matters organized and moving.
 - Works alongside intake and education specialists so families experience a clear, orderly path.
 
@@ -20,10 +22,10 @@ Engage this specialist to organize or advance work in the family-practice pipeli
 
 ## How it fits the CLOSΞR℠ team
 
-Collaborates with [BRIDGΞ℠](bridge.md), [ΛNGIΞ℠](angie.md), [CHΞCKSUM℠](checksum.md), [BΞN℠](ben.md), [BIG LΞO℠](big-leo.md).
+Serves RΞLΛY℠ on CLOSΞR℠ Core. Collaborates with [BRIDGΞ℠](bridge.md), [ΛNGIΞ℠](angie.md), [CHΞCKSUM℠](checksum.md), [BΞN℠](ben.md), [BIG LΞO℠](big-leo.md).
 
 ---
 
-*Part of the CLOSΞR℠ bot team · Thomas J Messina LLC*
+*Thomas J Messina LLC · CLOSΞR℠ Bot Team*
 
-[All teammates](../README.md) · [Printable page](../html/pipeline-family.html)
+[Team fact sheet](../README.md) · [Printable page](../html/pipeline-family.html)

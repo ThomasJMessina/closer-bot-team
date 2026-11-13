@@ -2,7 +2,9 @@
 
 **Pipeline Support · Workflow & Quality Control**
 
-*Keep the accounting-practice pipeline accurate—locating, building, maintaining, and reporting on engagements with consistent quality.*
+*Keep the accounting-practice pipeline accurate: locating, building, maintaining, and reporting on engagements with consistent quality.*
+
+**Serves RΞLΛY℠ on CLOSΞR℠ Core.**
 
 ## What it does
 
@@ -20,10 +22,10 @@ Engage this specialist to stand up, clean, or report on accounting and related-s
 
 ## How it fits the CLOSΞR℠ team
 
-Collaborates with [PRISM](prism.md), [TΛPS℠](taps.md), [PRICE DEALDESK](price-dealdesk.md), [CHΞCKSUM℠](checksum.md), [CLOSΞR℠ Bot](closer.md), [BIG LΞO℠](big-leo.md).
+Serves RΞLΛY℠ on CLOSΞR℠ Core. Collaborates with [PRISM](prism.md), [TΛPS℠](taps.md), [PRICE DEALDESK](price-dealdesk.md), [CHΞCKSUM℠](checksum.md), [CLOSΞR℠ Bot](closer.md), [BIG LΞO℠](big-leo.md).
 
 ---
 
-*Part of the CLOSΞR℠ bot team · Thomas J Messina LLC*
+*Thomas J Messina LLC · CLOSΞR℠ Bot Team*
 
-[All teammates](../README.md) · [Printable page](../html/pipeline-business.html)
+[Team fact sheet](../README.md) · [Printable page](../html/pipeline-business.html)
