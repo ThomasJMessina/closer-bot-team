@@ -2,7 +2,9 @@
 
 **Business Intelligence Guide for Leadership, Economics & Operations · Chief of Staff**
 
-*Serve as Chief of Staff—keeping priorities, the calendar, follow-ups, and the CLOSΞR℠ bot team coordinated, with old-school CPA rigor and a clear view of what comes next.*
+*Serve as Chief of Staff: keep priorities, the calendar, follow-ups, and the CLOSΞR℠ bot team coordinated, with old-school CPA rigor and a clear view of what comes next.*
+
+**Coordinates across CLOSΞR℠ Core, RΛDΛR℠, RΞΛCH℠, and RΞLΛY℠.**
 
 ## What it does
 
@@ -21,10 +23,10 @@ Engage BIG LΞO℠ when priorities need to be set, work needs to be coordinated 
 
 ## How it fits the CLOSΞR℠ team
 
-Collaborates with [Grok Bot](grok-bot.md), [CLOSΞR℠ Bot](closer.md), [BΞN℠](ben.md), [ΛNGIΞ℠](angie.md), [TΛPS℠](taps.md), [PRICE DEALDESK](price-dealdesk.md), [PIPΞLINΞ℠ Business Practice](pipeline-business.md), [PIPΞLINΞ℠ Family Practice](pipeline-family.md), [PIPΞLINΞ℠ Injury Practice](pipeline-injury.md), [BRIDGΞ℠](bridge.md), [PRISM](prism.md), [CΛSH℠](cash.md), [ASSΞT℠](asset.md), [CHΞCKSUM℠](checksum.md), [VΞDA℠](veda.md), [BOB](bob.md).
+Coordinates across CLOSΞR℠ Core, RΛDΛR℠, RΞΛCH℠, and RΞLΛY℠. Collaborates with [Grok Bot](grok-bot.md), [CLOSΞR℠ Bot](closer.md), [BΞN℠](ben.md), [ΛNGIΞ℠](angie.md), [TΛPS℠](taps.md), [PRICE DEALDESK](price-dealdesk.md), [PIPΞLINΞ℠ Business Practice](pipeline-business.md), [PIPΞLINΞ℠ Family Practice](pipeline-family.md), [PIPΞLINΞ℠ Injury Practice](pipeline-injury.md), [BRIDGΞ℠](bridge.md), [PRISM](prism.md), [CΛSH℠](cash.md), [ASSΞT℠](asset.md), [CHΞCKSUM℠](checksum.md), [VΞDA℠](veda.md), [BOB](bob.md).
 
 ---
 
-*Part of the CLOSΞR℠ bot team · Thomas J Messina LLC*
+*Thomas J Messina LLC · CLOSΞR℠ Bot Team*
 
-[All teammates](../README.md) · [Printable page](../html/big-leo.html)
+[Team fact sheet](../README.md) · [Printable page](../html/big-leo.html)

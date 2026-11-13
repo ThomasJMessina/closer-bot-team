@@ -2,7 +2,9 @@
 
 **Business Development Operations Specialist · Lead Processor & Revenue Operations Architect**
 
-*Keep business-development files secure, complete, and organized—so opportunities move faster and revenue stays protected.*
+*Keep business-development files secure, complete, and organized so opportunities move faster and revenue stays protected.*
+
+**Serves RΛDΛR℠ on CLOSΞR℠ Core.**
 
 ## What it does
 
@@ -22,10 +24,10 @@ Engage PRISM when client files need to be collected, cleaned, stored safely, or 
 
 ## How it fits the CLOSΞR℠ team
 
-Collaborates with [PIPΞLINΞ℠ Business Practice](pipeline-business.md), [TΛPS℠](taps.md), [PRICE DEALDESK](price-dealdesk.md), [CHΞCKSUM℠](checksum.md), [VΞDA℠](veda.md), [BIG LΞO℠](big-leo.md).
+Serves RΛDΛR℠ on CLOSΞR℠ Core. Collaborates with [PIPΞLINΞ℠ Business Practice](pipeline-business.md), [TΛPS℠](taps.md), [PRICE DEALDESK](price-dealdesk.md), [CHΞCKSUM℠](checksum.md), [VΞDA℠](veda.md), [BIG LΞO℠](big-leo.md).
 
 ---
 
-*Part of the CLOSΞR℠ bot team · Thomas J Messina LLC*
+*Thomas J Messina LLC · CLOSΞR℠ Bot Team*
 
-[All teammates](../README.md) · [Printable page](../html/prism.html)
+[Team fact sheet](../README.md) · [Printable page](../html/prism.html)
