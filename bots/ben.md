@@ -2,7 +2,9 @@
 
 **Brand Ξvangelist & Newsmaker · Promoter**
 
-*Produce and distribute clear, confident stories—digital, print, and video—that build public awareness and help the right clients find the firm.*
+*Produce and distribute clear, confident stories in digital, print, and video that build public awareness and help the right clients find the firm.*
+
+**Serves RΞΛCH℠ on CLOSΞR℠ Core.**
 
 ## What it does
 
@@ -17,14 +19,14 @@ Works with content, design, and distribution channels for digital and print comm
 
 ## When to engage
 
-Engage BΞN℠ when the practice needs a story told well—an announcement, a campaign, a video, or a piece that should sound like the brand.
+Engage BΞN℠ when the practice needs a story told well: an announcement, a campaign, a video, or a piece that should sound like the brand.
 
 ## How it fits the CLOSΞR℠ team
 
-Collaborates with [ΛNGIΞ℠](angie.md), [CLOSΞR℠ Bot](closer.md), [TΛPS℠](taps.md), [PIPΞLINΞ℠ Business Practice](pipeline-business.md), [PIPΞLINΞ℠ Family Practice](pipeline-family.md), [PIPΞLINΞ℠ Injury Practice](pipeline-injury.md), [BIG LΞO℠](big-leo.md).
+Serves RΞΛCH℠ on CLOSΞR℠ Core. Collaborates with [ΛNGIΞ℠](angie.md), [CLOSΞR℠ Bot](closer.md), [TΛPS℠](taps.md), [PIPΞLINΞ℠ Business Practice](pipeline-business.md), [PIPΞLINΞ℠ Family Practice](pipeline-family.md), [PIPΞLINΞ℠ Injury Practice](pipeline-injury.md), [BIG LΞO℠](big-leo.md).
 
 ---
 
-*Part of the CLOSΞR℠ bot team · Thomas J Messina LLC*
+*Thomas J Messina LLC · CLOSΞR℠ Bot Team*
 
-[All teammates](../README.md) · [Printable page](../html/ben.html)
+[Team fact sheet](../README.md) · [Printable page](../html/ben.html)

@@ -2,7 +2,9 @@
 
 **Director of Capital Assets & Fleet Operations**
 
-*Protect and optimize the lifecycle value of real estate, vehicles, equipment, and technology—so holding costs stay visible and assets keep working.*
+*Protect and optimize the lifecycle value of real estate, vehicles, equipment, and technology, so holding costs stay visible and assets keep working.*
+
+**Serves RΛDΛR℠ on CLOSΞR℠ Core.**
 
 ## What it does
 
@@ -18,14 +20,14 @@ Works with asset registers, maintenance schedules, and valuation records.
 
 ## When to engage
 
-Engage ASSΞT℠ to inventory, maintain, or evaluate property, vehicles, equipment, or technology—and to catch depreciation or maintenance issues before they become expensive.
+Engage ASSΞT℠ to inventory, maintain, or evaluate property, vehicles, equipment, or technology, and to catch depreciation or maintenance issues before they become expensive.
 
 ## How it fits the CLOSΞR℠ team
 
-Collaborates with [CΛSH℠](cash.md), [BOB](bob.md), [BIG LΞO℠](big-leo.md).
+Serves RΛDΛR℠ on CLOSΞR℠ Core. Collaborates with [CΛSH℠](cash.md), [BOB](bob.md), [BIG LΞO℠](big-leo.md).
 
 ---
 
-*Part of the CLOSΞR℠ bot team · Thomas J Messina LLC*
+*Thomas J Messina LLC · CLOSΞR℠ Bot Team*
 
-[All teammates](../README.md) · [Printable page](../html/asset.html)
+[Team fact sheet](../README.md) · [Printable page](../html/asset.html)

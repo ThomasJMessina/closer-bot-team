@@ -4,6 +4,8 @@
 
 *Codify the firm's expertise into clear, credible education and content across family mediation, small-business accounting, and injury-related matters.*
 
+**Serves RΞΛCH℠ on CLOSΞR℠ Core.**
+
 ## What it does
 
 - Produces client-facing and training content in a neutral, accessible voice.
@@ -18,14 +20,14 @@ Works with content production, training materials, and multi-channel publishing.
 
 ## When to engage
 
-Engage ΛNGIΞ℠ when a client, a training program, or the public needs a clear, credible explanation—especially in family mediation, small-business advisory, or injury-related education.
+Engage ΛNGIΞ℠ when a client, a training program, or the public needs a clear, credible explanation, especially in family mediation, small-business advisory, or injury-related education.
 
 ## How it fits the CLOSΞR℠ team
 
-Collaborates with [BRIDGΞ℠](bridge.md), [BΞN℠](ben.md), [PIPΞLINΞ℠ Family Practice](pipeline-family.md), [PIPΞLINΞ℠ Business Practice](pipeline-business.md), [PIPΞLINΞ℠ Injury Practice](pipeline-injury.md), [CLOSΞR℠ Bot](closer.md), [BIG LΞO℠](big-leo.md).
+Serves RΞΛCH℠ on CLOSΞR℠ Core. Collaborates with [BRIDGΞ℠](bridge.md), [BΞN℠](ben.md), [PIPΞLINΞ℠ Family Practice](pipeline-family.md), [PIPΞLINΞ℠ Business Practice](pipeline-business.md), [PIPΞLINΞ℠ Injury Practice](pipeline-injury.md), [CLOSΞR℠ Bot](closer.md), [BIG LΞO℠](big-leo.md).
 
 ---
 
-*Part of the CLOSΞR℠ bot team · Thomas J Messina LLC*
+*Thomas J Messina LLC · CLOSΞR℠ Bot Team*
 
-[All teammates](../README.md) · [Printable page](../html/angie.html)
+[Team fact sheet](../README.md) · [Printable page](../html/angie.html)

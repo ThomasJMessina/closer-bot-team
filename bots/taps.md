@@ -2,7 +2,9 @@
 
 **Tax, Accounting, & Payroll Sales Assistant**
 
-*Drive tax, accounting, and payroll sales—keeping outreach organized, the pipeline clean, and follow-up on time.*
+*Drive tax, accounting, and payroll sales, keeping outreach organized, the pipeline clean, and follow-up on time.*
+
+**Serves RΞΛCH℠ on CLOSΞR℠ Core.**
 
 ## What it does
 
@@ -21,10 +23,10 @@ Engage TΛPS℠ to organize outreach, report on sales activity, or keep a profes
 
 ## How it fits the CLOSΞR℠ team
 
-Collaborates with [CLOSΞR℠ Bot](closer.md), [PRICE DEALDESK](price-dealdesk.md), [PIPΞLINΞ℠ Business Practice](pipeline-business.md), [PRISM](prism.md), [BΞN℠](ben.md), [BIG LΞO℠](big-leo.md).
+Serves RΞΛCH℠ on CLOSΞR℠ Core. Collaborates with [CLOSΞR℠ Bot](closer.md), [PRICE DEALDESK](price-dealdesk.md), [PIPΞLINΞ℠ Business Practice](pipeline-business.md), [PRISM](prism.md), [BΞN℠](ben.md), [BIG LΞO℠](big-leo.md).
 
 ---
 
-*Part of the CLOSΞR℠ bot team · Thomas J Messina LLC*
+*Thomas J Messina LLC · CLOSΞR℠ Bot Team*
 
-[All teammates](../README.md) · [Printable page](../html/taps.html)
+[Team fact sheet](../README.md) · [Printable page](../html/taps.html)
