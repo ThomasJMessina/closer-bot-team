@@ -8,7 +8,7 @@ CLOSΞR℠ is the Closed-Loop Operating System & Engagement Resource, the govern
 
 **Bottom line.** CLOSΞR℠ Core is the foundation. RΛDΛR℠ decides. RΞΛCH℠ engages and activates. RΞLΛY℠ coordinates and delivers. The bot team works inside that architecture.
 
-Open the [printable fact sheet](index.html) for a one-page view of the team. Each specialist also has a one-page brief in Markdown and a printable HTML page.
+Open the [printable fact sheet](index.html) for a one-page view of the team. Each specialist also has a one-page brief in Markdown and a printable HTML page. Fuller one-page profile notes cover [BIG LΞO℠ as Chief of Staff](html/big-leo-chief-of-staff.html) and [ΛNGIΞ℠](html/angie.html).
 
 ## CLOSΞR℠ Core
 
@@ -16,7 +16,7 @@ The protected foundational knowledge, governance, and instruction system. It is 
 
 | Specialist | Role | Printable |
 | --- | --- | --- |
-| [BIG LΞO℠](bots/big-leo.md) | Chief of Staff. Keeps priorities, the calendar, follow-ups, and the bot team coordinated. | [Print](html/big-leo.html) |
+| [BIG LΞO℠](bots/big-leo.md) | Chief of Staff. Keeps priorities, the calendar, follow-ups, and the bot team coordinated. | [Print](html/big-leo-chief-of-staff.html) |
 | [Grok Bot](bots/grok-bot.md) | Primary router. Takes any request and routes it to the specialist best suited to the work. | [Print](html/grok-bot.html) |
 
 ## 01 · RΛDΛR℠
@@ -63,7 +63,7 @@ The governed instance, role, authority, relationship, coordination, handoff, con
 
 ## Printable pages
 
-Each HTML page is designed to print on a single letter-size sheet. Open the printable HTML and use Print to PDF. Brand typography is Poppins for display marks, IBM Plex Sans for editorial text, and IBM Plex Mono for system metadata.
+Each HTML page is designed to print on a single letter-size sheet. Open the printable HTML and use Print to PDF. Brand typography is Poppins for display marks, IBM Plex Sans for editorial text, and IBM Plex Mono for system metadata. The Chief of Staff and ΛNGIΞ℠ profile notes are also one letter page each.
 
 ## Brand notes
 

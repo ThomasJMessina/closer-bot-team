@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BIG LΞO℠ · Chief of Staff · CLOSΞR℠ Bot Team</title>
+  <style>
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/fonts/Poppins-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/fonts/Poppins-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/fonts/Poppins-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/fonts/IBMPlexSans-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+0370-03FF;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/fonts/IBMPlexSans-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+0370-03FF;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/fonts/IBMPlexSans-SemiBold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+0370-03FF;
+}
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../assets/fonts/IBMPlexSans-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../assets/fonts/IBMPlexSans-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../assets/fonts/IBMPlexSans-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("../assets/fonts/IBMPlexMono-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("../assets/fonts/IBMPlexMono-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("../assets/fonts/IBMPlexSans-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+0370-03FF;
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("../assets/fonts/IBMPlexSans-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+0370-03FF;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/fonts/DejaVuSans-SM.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+2120;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/fonts/DejaVuSans-SM.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+2120;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("../assets/fonts/DejaVuSans-SM.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+2120;
+}
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../assets/fonts/DejaVuSans-SM.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+2120;
+}
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../assets/fonts/DejaVuSans-SM.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+2120;
+}
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../assets/fonts/DejaVuSans-SM.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+2120;
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("../assets/fonts/DejaVuSans-SM.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+2120;
+}
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("../assets/fonts/DejaVuSans-SM.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: block;
+  unicode-range: U+2120;
+}
+
+
+:root {
+  --ink: #0B0B0C;
+  --ink-soft: #1C1C1F;
+  --paper: #F3F0EA;
+  --paper-2: #E7E2D8;
+  --lead: #FF3131;
+  --close: #004AAD;
+  --rule: color-mix(in srgb, var(--ink) 16%, transparent);
+  --muted: color-mix(in srgb, var(--ink) 62%, var(--paper));
+  --radius-sq: 2px;
+  --font-brand: "Poppins", "IBM Plex Sans", ui-sans-serif, sans-serif;
+  --font-sans: "IBM Plex Sans", ui-sans-serif, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #d9d4cb;
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body { padding: 24px; }
+
+.page {
+  width: 8.5in;
+  height: 11in;
+  margin: 0 auto;
+  background: var(--paper);
+  color: var(--ink);
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.lead-bar, .close-bar { height: 6px; width: 100%; flex: none; }
+.lead-bar { background: var(--lead); }
+.close-bar { background: var(--close); }
+
+.stepmark {
+  display: inline-flex;
+  width: 14px;
+  height: 12px;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-shrink: 0;
+}
+.stepmark i { display: block; height: 5px; width: 100%; }
+.stepmark i.lead { background: var(--lead); }
+.stepmark i.close { background: var(--close); }
+
+.sheet-head, .sheet-foot, .sheet-body { padding-left: 0.55in; padding-right: 0.55in; }
+
+.sheet-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  padding-top: 0.22in;
+  padding-bottom: 0.13in;
+  border-bottom: 1px solid var(--rule);
+}
+
+.meta {
+  font-family: var(--font-mono);
+  font-size: 7.5pt;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.sheet-body { flex: 1; padding-top: 0.18in; padding-bottom: 0.14in; display: flex; flex-direction: column; min-height: 0; }
+
+.sheet-foot {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  padding-top: 0.11in;
+  padding-bottom: 0.16in;
+  border-top: 1px solid var(--rule);
+  font-family: var(--font-mono);
+  font-size: 7pt;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.sm {
+  font-family: var(--font-mono);
+  font-weight: 500;
+  font-size: 0.42em;
+  letter-spacing: 0.08em;
+  vertical-align: super;
+}
+
+.kicker-lead {
+  font-family: var(--font-mono);
+  font-size: 7.5pt;
+  font-weight: 500;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--lead);
+  margin: 0 0 4px;
+}
+
+h1.name {
+  font-family: var(--font-brand);
+  font-weight: 600;
+  font-size: 26pt;
+  line-height: 0.95;
+  letter-spacing: -0.035em;
+  margin: 0;
+}
+
+.exp {
+  margin: 5px 0 0;
+  font-family: var(--font-mono);
+  font-size: 8pt;
+  font-weight: 400;
+  font-style: italic;
+  letter-spacing: 0.02em;
+  color: var(--muted);
+  text-transform: none;
+}
+
+.role {
+  margin: 6px 0 0;
+  font-family: var(--font-sans);
+  font-size: 10.5pt;
+  font-weight: 500;
+  color: var(--ink);
+  line-height: 1.25;
+}
+
+.also {
+  margin: 2px 0 0;
+  font-family: var(--font-sans);
+  font-size: 9pt;
+  font-weight: 400;
+  color: var(--muted);
+}
+
+.status-row {
+  font-family: var(--font-mono);
+  font-size: 7.5pt;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  margin: 8px 0 10px;
+  white-space: nowrap;
+}
+.status-row .close { color: var(--close); }
+.status-row .sep { color: var(--rule); margin: 0 0.55em; }
+
+.mission {
+  margin: 0 0 12px;
+  font-size: 11pt;
+  line-height: 1.38;
+  max-width: 7in;
+}
+.mission strong { font-weight: 600; }
+
+.quote {
+  margin: 0 0 13px;
+  padding: 2px 0 2px 12px;
+  border-left: 2px solid var(--lead);
+  font-size: 10pt;
+  line-height: 1.42;
+  font-style: italic;
+  color: var(--ink);
+}
+
+.twocol {
+  display: grid;
+  grid-template-columns: 1.12fr 0.88fr;
+  gap: 0 0.30in;
+  margin-bottom: 2px;
+}
+
+section { margin: 0 0 11px; }
+section h2 {
+  margin: 0 0 5px;
+  font-family: var(--font-mono);
+  font-size: 7.5pt;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--lead);
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 3px;
+}
+section ul { margin: 0; padding: 0 0 0 1.05em; }
+section li { margin: 0 0 4px; font-size: 9.4pt; line-height: 1.35; }
+section p { margin: 0; font-size: 9.4pt; line-height: 1.42; }
+
+.chips { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 6px; }
+.chip {
+  display: inline-block;
+  border: 1px solid var(--rule);
+  background: var(--paper-2);
+  color: var(--ink);
+  font-family: var(--font-brand);
+  font-weight: 600;
+  font-size: 7.5pt;
+  letter-spacing: -0.02em;
+  padding: 3px 8px 4px;
+  border-radius: var(--radius-sq);
+  text-decoration: none;
+}
+
+.page.leo .sheet-body { padding-top: 0.22in; }
+.page.leo .mission { margin-bottom: 16px; font-size: 11.5pt; line-height: 1.42; }
+.page.leo section { margin-bottom: 16px; }
+.page.leo section li { margin-bottom: 6px; font-size: 9.8pt; line-height: 1.42; }
+.page.leo section p { font-size: 9.8pt; line-height: 1.48; }
+.page.leo .status-row { margin: 10px 0 14px; }
+.page.leo .chips { margin-top: 8px; gap: 6px; }
+.page.leo .chip { padding: 4px 9px 5px; }
+
+@media print {
+  html, body { background: white; padding: 0; width: 8.5in; height: 11in; }
+  .page { box-shadow: none; margin: 0; }
+  a { color: inherit !important; text-decoration: none !important; }
+  @page { size: letter; margin: 0; }
+}
+
+  </style>
+</head>
+<body>
+  <article class="page leo">
+    <div class="lead-bar" aria-hidden="true"></div>
+    
+    <div class="sheet-head">
+      <p class="meta"><span class="stepmark" title="Thomas J Messina LLC" aria-hidden="true"><i class="lead"></i><i class="close"></i></span> THOMAS J MESSINA LLC</p>
+      <p class="meta">CLOSΞR℠ BOT TEAM · PROFILE NOTE · 2026-11-13 · V1.0</p>
+    </div>
+    <div class="sheet-body">
+      <p class="kicker-lead">Review. Build. Grow.</p>
+      <h1 class="name">BIG LΞO<span class="sm">℠</span></h1>
+      <p class="exp">Business Intelligence Guide for Leadership, Economics &amp; Operations</p>
+      <p class="role">Chief of Staff, Thomas J Messina LLC, as of November 12, 2026</p>
+      <p class="status-row"><span class="close">Class: Public</span><span class="sep">|</span><span>Sits in CLOSΞR℠ Core, alongside Grok Bot</span></p>
+      <p class="mission"><strong>Bottom line.</strong> BIG LΞO℠ is the Chief of Staff. He keeps priorities, the calendar, follow-ups, and the CLOSΞR℠ bot team coordinated, with the rigor of an old-school CPA mentor.</p>
+      <div class="twocol">
+        <section>
+          <h2>What he does</h2>
+          <ul>
+            <li>Coordinates the CLOSΞR℠ bot team so work stays aligned to current leadership priorities.</li>
+            <li>Tracks commitments, follow-ups, and calendar obligations across the practice.</li>
+            <li>Brings business-intelligence and operations discipline to day-to-day decisions.</li>
+            <li>Applies a steady view of leadership, economics, and operations to the work at hand.</li>
+            <li>Serves as a training and outreach persona, with his own designed voice.</li>
+          </ul>
+        </section>
+        <section>
+          <h2>Typical outputs</h2>
+          <ul>
+            <li>A coordinated view of current priorities and open follow-ups.</li>
+            <li>Calendar and commitment tracking for leadership work.</li>
+            <li>Direction to the specialist best placed to take the next step.</li>
+            <li>Training and outreach delivered in his designed voice.</li>
+          </ul>
+        </section>
+      </div>
+      <section>
+        <h2>How he fits CLOSΞR℠ Core</h2>
+        <p>CLOSΞR℠ is the Closed-Loop Operating System &amp; Engagement Resource, the governing proprietary operating architecture of Thomas J Messina LLC. CLOSΞR℠ Core is the foundation. It is not a fourth execution engine. BIG LΞO℠ sits in Core with Grok Bot, the primary router, and coordinates across the three frameworks that execute from Core.</p>
+        <p style="margin-top:6px;">RΛDΛR℠ (Recognize, Analyze, Develop, Advocate, Respond) decides. RΞΛCH℠ (Report, Engage, Attend, Convert, Honor) engages and activates. RΞLΛY℠ (Register, Evaluate, Link, Assign, Yield) coordinates and delivers.</p>
+      </section>
+      <section>
+        <h2>When to engage</h2>
+        <p>Engage BIG LΞO℠ when priorities need to be set, work needs to be coordinated across specialists, or a decision needs a steady chief of staff with old-school CPA rigor.</p>
+      </section>
+      <section>
+        <h2>Who he works with</h2>
+        <p>He works across the full CLOSΞR℠ bot team.</p>
+        <div class="chips">
+          <a class="chip" href="grok-bot.html">Grok Bot</a>
+          <a class="chip" href="angie.html">ΛNGIΞ<span class="sm">℠</span></a>
+          <a class="chip" href="closer.html">CLOSΞR<span class="sm">℠</span> Bot</a>
+          <a class="chip" href="ben.html">BΞN<span class="sm">℠</span></a>
+          <a class="chip" href="taps.html">TΛPS<span class="sm">℠</span></a>
+          <a class="chip" href="price-dealdesk.html">PRICE DEALDESK</a>
+          <a class="chip" href="prism.html">PRISM</a>
+          <a class="chip" href="pipeline-injury.html">PIPΞLINΞ<span class="sm">℠</span> Injury</a>
+          <a class="chip" href="pipeline-business.html">PIPΞLINΞ<span class="sm">℠</span> Business</a>
+          <a class="chip" href="pipeline-family.html">PIPΞLINΞ<span class="sm">℠</span> Family</a>
+          <a class="chip" href="bridge.html">BRIDGΞ<span class="sm">℠</span></a>
+          <a class="chip" href="cash.html">CΛSH<span class="sm">℠</span></a>
+          <a class="chip" href="asset.html">ASSΞT<span class="sm">℠</span></a>
+          <a class="chip" href="checksum.html">CHΞCKSUM<span class="sm">℠</span></a>
+          <a class="chip" href="veda.html">VΞDA<span class="sm">℠</span></a>
+          <a class="chip" href="bob.html">BOB</a>
+        </div>
+      </section>
+    </div>
+    <div class="sheet-foot">
+      <span><span class="stepmark" title="Thomas J Messina LLC" aria-hidden="true"><i class="lead"></i><i class="close"></i></span> Thomas J Messina LLC · CLOSΞR℠ Bot Team</span>
+      <span>p. 1 of 1</span>
+    </div>
+
+    <div class="close-bar" aria-hidden="true"></div>
+  </article>
+</body>
+</html>
